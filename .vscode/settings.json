@@ -1,0 +1,6 @@
+{
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.useTabs": true,
+    "prettier.useEditorConfig": true,
+    "editor.formatOnSave": true
+}
