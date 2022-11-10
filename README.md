@@ -1,2 +1,2 @@
 # highlighted-honey
-highlighted-honey landing page
+A landing page using built with Bootstrap and Hugo
