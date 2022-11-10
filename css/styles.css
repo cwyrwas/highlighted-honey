@@ -42,7 +42,7 @@
 
 
 
-.background_image{background: url('/images/banner_top.jpg');
+.background_image{background: url('../images/banner_top.jpg');
     min-height: 90vh;
     margin-top: 10px;
     width: 100%;
@@ -104,7 +104,7 @@ box-shadow: 0 1rem 3rem rgba(255,216,44,.375)!important;}
 
 
 
-.services_back{background: url('/images/services_bg.jpg');
+.services_back{background: url('../images/services_bg.jpg');
     min-height: 90vh;
     margin-top: 10px;
     width: 100%;
